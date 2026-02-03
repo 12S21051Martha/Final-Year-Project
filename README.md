@@ -1,4 +1,4 @@
-# Final-Year-Project
+# Final-Year-Project as Information System Student
 Undergraduate thesis project: chromosome scale rice genome assembly and annotation pipeline.
 
 ## Introduction
