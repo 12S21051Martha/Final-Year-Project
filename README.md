@@ -1,5 +1,5 @@
-# Final-Year-Project as Information System Student
-Undergraduate thesis project: chromosome scale rice genome assembly and annotation pipeline.
+# Chromosome Scale Rice Genome Assembly and Annotation
+Undergraduate thesis project for Final-Year-Project as Information System Student: chromosome scale rice genome assembly and annotation pipeline.
 
 ## Introduction
 PR25 is a perennial hybrid rice derived from RD23 and the wild progenitor Oryza longistaminata.
